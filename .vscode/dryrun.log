@@ -1,6 +1,0 @@
-make --dry-run --always-make --keep-going --print-directory
-make: Entering directory '/home/alex/coding/c++/open-yorg/open-yorg'
-make: Leaving directory '/home/alex/coding/c++/open-yorg/open-yorg'
- 
-make: *** No targets specified and no makefile found.  Stop.
- 

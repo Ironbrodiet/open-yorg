@@ -1,3 +1,0 @@
-#!/usr/bin/fish
-
-cd /home/alex/coding/c++/open-yorg/open-yorg/test/build && cmake .. && clear && cmake --build . -j 4 --parallel 4 && ./open-yorg
